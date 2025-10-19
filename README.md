@@ -14,7 +14,6 @@ I'm a Master's student in Sustainable Systems Engineering (Erasmus Mundus) with 
 
 📚 Lifelong learner currently deepening my knowledge in AI applications, data visualization, and system automation
 
-💬 Let's connect!
 
 ## Connect with me 🌐
 
