@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there, I'm David Charry👋
 
-I'm David Charry
 I'm a Master's student in Sustainable Systems Engineering (Erasmus Mundus) with a background in Civil Engineering and growing expertise in software development and data-driven systems. I'm passionate about combining engineering principles with technology to create scalable, efficient, and sustainable digital solutions.
 
 🌍 Exploring the intersection between sustainability, data, and technology
@@ -16,7 +15,12 @@ I'm a Master's student in Sustainable Systems Engineering (Erasmus Mundus) with 
 📚 Lifelong learner currently deepening my knowledge in AI applications, data visualization, and system automation
 
 💬 Let's connect!
-LinkedIn | GitHub | Email
+
+## Connect with me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcharrym/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidcharrym@gmail.com)
+
 
 ⚡ "Engineering smarter, AI-powered solutions for a more sustainable future."
 
